@@ -1,0 +1,7 @@
+html,body{padding:0;margin:0;}
+.el-header{
+    line-height:60px;
+    background: #eee;
+  }
+.el-container{height:600px;background: #fff;}
+.el-main{background: #ddd;}
